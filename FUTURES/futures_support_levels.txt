@@ -1,0 +1,3 @@
+# symbol, planned_entry, take_profit, stop_loss
+/MNQ, 18200.00, 18350.00, 18120.00
+/MES, 5120.00, 5160.00, 5095.00
