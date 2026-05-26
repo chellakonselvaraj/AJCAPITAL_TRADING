@@ -1,0 +1,9 @@
+# Secrets and environment files sitting in this folder
+.env
+
+# Operating system junk files
+.DS_Store
+
+# Python cache folders (created automatically when you run your scripts)
+__pycache__/
+*.pyc
