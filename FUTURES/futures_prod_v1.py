@@ -19,20 +19,20 @@ async def fetch_futures_market_rates():
 
 async def calculate_futures_metrics():
     print("========================================================================================================================")
-    print("                AJ CAPITAL LLC - AUTOMATED FUTURES S&R RISK MONITOR [PRODUCTION]")
+    print("              AJ CAPITAL LLC - AUTOMATED FOREX RISK MONITOR [PRODUCTION]                                                ")
     print("========================================================================================================================")
-    print(f"{'ROOT':<6} | {'LIVE SPOT':<12} | {'AUTO SUPPORT':<14} | {'AUTO RESIST':<14} | {'TICK COST':<9} | {'ORDER PLACEMENT RISK ENGINE':<28}")
+    print("ROOT   | LIVE SPOT (S&P/NDX) | AUTO SUPPORT(Base) | AUTO RESIST (top) | TICK COST | ORDER PLACEMENT RISK ENGINE             ")
     print("------------------------------------------------------------------------------------------------------------------------")
 
     try:
         rates = await fetch_futures_market_rates()
         
-        # Resetting asset baselines back to true production values
+        # Resetting all asset baselines and variances to zero
         targets = {
-            "/MES": {"tick_cost": "$1.25", "base_spot": 5340.25, "variance": 12.50, "buffer": 5.0, "force_alert": False},
-            "/MNQ": {"tick_cost": "$0.50", "base_spot": 18925.00, "variance": 45.00, "buffer": 15.0, "force_alert": False},
-            "/MCL": {"tick_cost": "$1.00", "base_spot": 78.45, "variance": 0.35, "buffer": 0.10, "force_alert": False},
-            "TEST": {"tick_cost": "$0.00", "base_spot": 1000.00, "variance": 10.00, "buffer": 5.0, "force_alert": True} # Permanent template row
+            "/MES": {"tick_cost": "$1.25", "base_spot": 0.00, "variance": 0.00, "buffer": 0.0, "force_alert": False},
+            "/MNQ": {"tick_cost": "$0.50", "base_spot": 0.00, "variance": 0.00, "buffer": 0.0, "force_alert": False},
+            "/MCL": {"tick_cost": "$1.00", "base_spot": 0.00, "variance": 0.00, "buffer": 0.0, "force_alert": False},
+            "TEST": {"tick_cost": "$0.00", "base_spot": 0.00, "variance": 0.00, "buffer": 0.0, "force_alert": True} # Permanent template row
         }
         
         for symbol, meta in targets.items():
