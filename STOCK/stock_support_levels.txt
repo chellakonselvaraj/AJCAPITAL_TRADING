@@ -1,0 +1,4 @@
+# symbol, planned_entry, take_profit, stop_loss
+NVDA, 910.00, 945.00, 895.00
+AAPL, 295.00, 310.00, 290.00
+TSLA, 410.00, 435.00, 400.00

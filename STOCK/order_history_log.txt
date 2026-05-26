@@ -1,0 +1,71 @@
+========================================================================================================================
+AJ CAPITAL LLC - AUTOMATED OPTIONS ROUTING PERMANENT HISTORICAL LEDGER
+========================================================================================================================
+TIMESTAMP              ACCOUNT TYPE    ID              SYM    QTY  STRATEGY   NET CR   TOTAL CR   RISK COLLATERAL
+------------------------------------------------------------------------------------------------------------------------
+2026-05-19 02:01:18 PM SANDBOX         TRD-97968126    BBAI   1    3.5/3.0 P  $0.07   $7.00      $43.00         
+2026-05-19 02:02:28 PM SANDBOX         TRD-FE7B7BB4    F      2    12.0/11.0 P $0.21   $42.00     $158.00        
+2026-05-19 02:02:32 PM SANDBOX         TRD-9B635EA6    SOUND  5    8.0/7.0 P  $0.14   $70.00     $430.00        
+2026-05-19 02:02:35 PM SANDBOX         TRD-E8D9DC1C    SOFI   3    15.0/14.0 P $0.26   $78.00     $222.00        
+2026-05-19 02:02:40 PM SANDBOX         TRD-538C5D95    KO     1    60.0/55.0 P $0.37   $37.00     $463.00        
+2026-05-19 02:21:17 PM SANDBOX         TRD-F6D566FC    BBAI   1    3.5/3.0 P  $0.07   $7.00      $43.00         
+2026-05-19 02:21:24 PM SANDBOX         TRD-2361B50C    F      2    12.0/11.0 P $0.21   $42.00     $158.00        
+2026-05-19 02:21:26 PM SANDBOX         TRD-4CB87475    SOUND  5    8.0/7.0 P  $0.14   $70.00     $430.00        
+2026-05-19 02:21:28 PM SANDBOX         TRD-8FB3EC2D    SOFI   3    15.0/14.0 P $0.26   $78.00     $222.00        
+2026-05-19 02:21:30 PM SANDBOX         TRD-6CE7A607    KO     1    60.0/55.0 P $0.37   $37.00     $463.00        
+2026-05-19 02:41:18 PM SANDBOX         TRD-C05F3285    BBAI   1    3.5/3.0 P       $0.07   $7.00      $43.00         
+2026-05-19 02:41:32 PM SANDBOX         TRD-9E5BCAEA    F      2    12.0/11.0 P     $0.21   $42.00     $158.00        
+2026-05-19 02:41:37 PM SANDBOX         TRD-D536E3B7    SOUND  5    8.0/7.0 P       $0.14   $70.00     $430.00        
+2026-05-19 02:48:20 PM SANDBOX         TRD-A614808B    SOFI   3    15.0/14.0 P     $0.26   $78.00     $222.00        
+2026-05-19 02:48:56 PM SANDBOX         TRD-A0875EE2    KO     1    60.0/55.0 P     $0.37   $37.00     $463.00        
+2026-05-19 03:14:36 PM SANDBOX         TRD-C5D280C7    BBAI   1    3.5/3.0 P  $0.07   $7.00      $43.00         
+2026-05-19 03:14:39 PM SANDBOX         TRD-DC5902FD    F      2    12.0/11.0 P $0.21   $42.00     $158.00        
+2026-05-19 03:14:41 PM SANDBOX         TRD-544600D1    SOUND  5    8.0/7.0 P  $0.14   $70.00     $430.00        
+2026-05-19 03:14:44 PM SANDBOX         TRD-4EDC6886    SOFI   3    15.0/14.0 P $0.26   $78.00     $222.00        
+2026-05-19 03:14:52 PM SANDBOX         TRD-3D1FB684    KO     1    60.0/55.0 P $0.37   $37.00     $463.00        
+2026-05-19 03:19:44 PM SANDBOX         TRD-0C8C8A6B    BBAI   1    3.5/3.0 P  $0.07   $7.00      $43.00         
+2026-05-19 03:19:47 PM SANDBOX         TRD-5DF1744C    F      2    12.0/11.0 P $0.21   $42.00     $158.00        
+2026-05-19 03:19:49 PM SANDBOX         TRD-2C731C0E    SOUND  5    8.0/7.0 P  $0.14   $70.00     $430.00        
+2026-05-19 03:19:51 PM SANDBOX         TRD-84411993    SOFI   3    15.0/14.0 P $0.26   $78.00     $222.00        
+2026-05-19 03:19:53 PM SANDBOX         TRD-539113D1    KO     1    60.0/55.0 P $0.37   $37.00     $463.00        
+2026-05-19 03:20:35 PM SANDBOX         TRD-175BFC53    BBAI   1    3.5/3.0 P       $0.07   $7.00      $43.00         
+2026-05-19 03:20:36 PM SANDBOX         TRD-C609A65C    F      2    12.0/11.0 P     $0.21   $42.00     $158.00        
+2026-05-19 03:20:38 PM SANDBOX         TRD-81AF37C0    SOUND  5    8.0/7.0 P       $0.14   $70.00     $430.00        
+2026-05-19 03:20:41 PM SANDBOX         TRD-99B07059    SOFI   3    15.0/14.0 P     $0.26   $78.00     $222.00        
+2026-05-19 03:20:43 PM SANDBOX         TRD-4729635B    KO     1    60.0/55.0 P     $0.37   $37.00     $463.00        
+2026-05-19 06:32:56 PM SANDBOX         TRD-AB851F4C    BBAI   1    3.5/3.0 P       $0.07   $7.00      $43.00         
+2026-05-19 06:33:18 PM SANDBOX         TRD-988780AD    F      2    12.0/11.0 P     $0.21   $42.00     $158.00        
+2026-05-19 06:33:26 PM SANDBOX         TRD-F9D7D521    SOUND  5    8.0/7.0 P       $0.14   $70.00     $430.00        
+2026-05-19 06:33:30 PM SANDBOX         TRD-3A1BEC2F    SOFI   3    15.0/14.0 P     $0.26   $78.00     $222.00        
+2026-05-19 06:33:45 PM SANDBOX         TRD-B444E423    KO     4    60.0/55.0 P     $0.37   $148.00    $1852.00       
+[2026-05-20 03:26:31 PM] SYMBOL: SOUND | STRATEGY: Iron Condor     | CREDIT: $350.0  | ID: 9876543    | STATUS: Received
+[2026-05-20 03:26:31 PM] SYMBOL: KO    | STRATEGY: Iron Condor     | CREDIT: $70.0   | ID: 9876543    | STATUS: Received
+[2026-05-20 03:26:32 PM] SYMBOL: SOFI  | STRATEGY: Iron Condor     | CREDIT: $42.0   | ID: 9876543    | STATUS: Received
+[2026-05-20 03:26:32 PM] SYMBOL: F     | STRATEGY: Iron Condor     | CREDIT: $14.0   | ID: 9876543    | STATUS: Received
+[2026-05-20 03:26:32 PM] SYMBOL: BBAI  | STRATEGY: Iron Condor     | CREDIT: $7.0    | ID: 9876543    | STATUS: Received
+[2026-05-20 03:27:53 PM] SYMBOL: KO    | STRATEGY: Iron Butterfly  | CREDIT: $210.0  | ID: 9876543    | STATUS: Received
+[2026-05-20 03:27:53 PM] SYMBOL: SOFI  | STRATEGY: Iron Butterfly  | CREDIT: $126.0  | ID: 9876543    | STATUS: Received
+[2026-05-20 03:27:53 PM] SYMBOL: F     | STRATEGY: Iron Butterfly  | CREDIT: $84.0   | ID: 9876543    | STATUS: Received
+[2026-05-20 03:27:53 PM] SYMBOL: BBAI  | STRATEGY: Iron Butterfly  | CREDIT: $42.0   | ID: 9876543    | STATUS: Received
+2026-05-20 03:36:46 PM SANDBOX       9876543         SOUND  5    Iron Condor $350.00   $1750.00    $750.00
+2026-05-20 03:36:46 PM SANDBOX       9876543         KO     1    Iron Condor $70.00    $70.00      $430.00
+2026-05-20 03:36:46 PM SANDBOX       9876543         SOFI   3    Iron Condor $42.00    $126.00     $1374.00
+2026-05-20 03:36:47 PM SANDBOX       9876543         F      2    Iron Condor $14.00    $28.00      $972.00
+2026-05-20 03:36:47 PM SANDBOX       9876543         BBAI   1    Iron Condor $7.00     $7.00       $493.00
+2026-05-20 03:36:52 PM SANDBOX       9876543         KO     1    Iron Fly   $210.00   $210.00     $290.00
+2026-05-20 03:36:52 PM SANDBOX       9876543         SOFI   3    Iron Fly   $126.00   $378.00     $1122.00
+2026-05-20 03:36:52 PM SANDBOX       9876543         F      2    Iron Fly   $84.00    $168.00     $832.00
+2026-05-20 03:36:53 PM SANDBOX       9876543         BBAI   1    Iron Fly   $42.00    $42.00      $458.00
+2026-05-20 04:03:28 PM SANDBOX       9876543         AMD    2    Iron Condor $1.85     $370.00     $630.00
+2026-05-20 04:04:21 PM SANDBOX       9876543         AMD    2    Iron Fly   $3.85     $770.00     $230.00
+2026-05-20 04:04:21 PM SANDBOX       9876543         SOFI   2    Iron Fly   $1.26     $252.00     $748.00
+2026-05-20 04:14:06 PM SANDBOX       9876543         AMD    2    Iron Condor $1.85     $370.00     $630.00
+2026-05-20 04:14:28 PM SANDBOX       9876543         SOFI   2    Iron Fly   $1.26     $252.00     $748.00
+2026-05-20 04:20:26 PM SANDBOX       9876543         AMD    2    Iron Condor $1.85     $370.00     $630.00
+2026-05-20 04:20:42 PM SANDBOX       9876543         AMD    2    Iron Fly   $3.85     $770.00     $230.00
+2026-05-20 04:20:42 PM SANDBOX       9876543         SOFI   2    Iron Fly   $1.26     $252.00     $748.00
+2026-05-20 04:44:13 PM SANDBOX       9876543         MNQ    2    Day-BUY    $19294.50 $38589.00   $0.00
+2026-05-20 04:44:13 PM SANDBOX       9876543         TSLA   2    Day-BUY    $174.10   $348.20     $0.00
+2026-05-20 04:44:13 PM SANDBOX       9876543         AMD    2    Day-SELL   $176.20   $352.40     $0.00
+2026-05-20 04:44:13 PM SANDBOX       9876543         NVDA   2    Day-SELL   $931.80   $1863.60    $0.00
+2026-05-20 04:44:14 PM SANDBOX       9876543         MSFT   2    Day-BUY    $414.20   $828.40     $0.00

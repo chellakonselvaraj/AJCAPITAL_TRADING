@@ -1,0 +1,15 @@
+# =================================================================================================
+# AJ CAPITAL LLC - TRADINGVIEW TECHNICAL CHART BOUNDERS
+# Format: SYMBOL, FLOOR_SUPPORT, PIVOT, CEILING_RESISTANCE
+# Make sure there are no trailing periods or commas.
+# SYMBOL, LOWER_SUPPORT, MAIN_SUPPORT, RESISTANCE
+# MNQ,    29320,         29400,        29480
+# =================================================================================================
+# AJ CAPITAL LLC - TECHNICAL DAY TRADING BOUNDARIES
+# Format: SYMBOL, FLOOR_SUPPORT, PIVOT, CEILING_RESISTANCE
+# =================================================================================================
+TSLA, 175.00, 180.00, 185.00
+AMD, 165.00, 170.00, 175.00
+NVDA, 900.00, 915.00, 930.00
+GOOGL, 170.00, 173.00, 176.00
+MSFT, 415.00, 420.00, 425.00

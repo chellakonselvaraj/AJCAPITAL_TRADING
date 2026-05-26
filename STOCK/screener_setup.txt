@@ -1,0 +1,9 @@
+#=================================================================================================
+# AJ CAPITAL LLC - MASTER SCREENER & PORTFOLIO CONTROL PANEL
+# =================================================================================================
+# GLOBAL PARAMETERS
+ORDER_QTY       = 2
+LIMIT_TOP_PICKS = 10
+MIN_IV_HURDLE   = 0.35
+MAX_BETA_LIMIT  = 1.30
+MIN_ROC_RETURN  = 0.12
